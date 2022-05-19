@@ -2,7 +2,7 @@
 ![](https://github.com/HuangRunHua/FilerApp/blob/main/intro.png)
 Filer is an Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system. This extension is simple and easy to use, completely free and no in-app purchases, no ads, hope you like it.
 
-The main reason for developing this extension is that my girlfriend complained a while ago why the MacBook Air doesn't have a Windows-like right-click to create a new document. So the idea of simply writing an extension for her was born.
+The main reason for developing this extension is that my girlfriend complained a while ago why the MacBook Air doesn't have a Windows-like right-click function to create a new document anywhere. So the idea of simply developing an extension for her was born.
 
 ### System Requirements
 Filer only supports macOS with system version equal to or higher than 11.0.
