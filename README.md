@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/HuangRunHua/test/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![](https://github.com/HuangRunHua/Bookmarks/blob/main/intro.jpg)
+![](https://github.com/HuangRunHua/Bookmarks/raw/main/intro.jpg)
 
 ### Support or Contact
 
