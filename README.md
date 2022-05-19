@@ -1,11 +1,14 @@
 ## Welcome to Filer
+Filer is an Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system. 
 
-You can use the [editor on GitHub](https://github.com/HuangRunHua/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### System Requirements
+Filer only supports macOS with system version equal to or higher than 11.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Install
+The first time you open Filer, macOS may tell you that the software needs to be update. Just ignore it, and go to **System preferences**, open **Security & Privacy**, and choose open Filer.
 
-![](https://github.com/HuangRunHua/Bookmarks/raw/main/intro.jpg)
+> **Note**
+> If you can't find **New file** selection, you may need to enable this feature manually. Just go to **System preferences**, and open **Extensions**, on **Added Extensions**, select Filer.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Filer or wants more file formats support? [Contact support](h76eddy@icloud.com) and we’ll help you sort it out.
