@@ -8,6 +8,7 @@ Filer only supports macOS with system version equal to or higher than 11.0.
 The first time you open Filer, macOS may tell you that the software needs to be update. Just ignore it, and go to **System preferences**, open **Security & Privacy**, and choose open Filer.
 
 > **Note**
+> 
 > If you can't find **New file** selection, you may need to enable this feature manually. Just go to **System preferences**, and open **Extensions**, on **Added Extensions**, select Filer.
 
 ### Support or Contact
