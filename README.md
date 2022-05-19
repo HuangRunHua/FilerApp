@@ -16,4 +16,4 @@ The easiest way to install the extension is to tap [Download Zip File](https://g
 > If you can't find **New file** selection after opening Filer, you may need to enable this feature manually. Just go to **System preferences**, and open **Extensions**, on **Added Extensions**, select Filer.
 
 ### Support or Contact
-Having trouble with Filer or wants more file formats support? [Contact support](h76eddy@icloud.com) and we’ll help you sort it out.
+Having trouble with Filer or wants more file formats support? [Contact support](https://twitter.com/joker_hook) and I’ll help you sort it out.
