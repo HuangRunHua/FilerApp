@@ -1,7 +1,7 @@
 # Trouble in Installing Filer
 > **Important**
 >
-> Before installing Filer, please ensure your macOS version is equal or higher than 11.0
+> Before installing Filer, please ensure your macOS version is equal or higher than 11.0.
 
 ## Trouble One
 When you first open Filer, you may see the following warning⚠️
