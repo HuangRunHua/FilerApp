@@ -18,4 +18,4 @@ When you open Filer, there is no app icon on the dock and a small icon will appe
 > If you can't find **New file** selection after opening Filer, you may need to enable this feature manually. Just go to **System preferences**, and open **Extensions**, on **Added Extensions**, select Filer.
 
 ### Support or Contact
-Having trouble with Filer or wants more file formats support? Please check [Trouble Lists](https://github.com/HuangRunHua/FilerApp/blob/main/trouble.md) first or [Contact support](https://twitter.com/joker_hook) and I’ll help you sort it out.
+Having trouble with Filer or wants more file formats support? Please check [Trouble Lists](https://github.com/HuangRunHua/FilerApp/blob/main/trouble.md) first or [Contact support](https://twitter.com/ThisFilerApp?s=20&t=yr4k4kQU_6fIYADIZX3v6Q) and I’ll help you sort it out.
