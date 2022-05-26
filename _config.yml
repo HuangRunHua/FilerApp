@@ -3,6 +3,6 @@ show_downloads: true
 title: Filer
 description: An Extension for your Mac
 github:
-   zip_url: https://github.com/HuangRunHua/FilerApp/releases/download/v1.0/Filer.app.zip
+   zip_url: https://github.com/HuangRunHua/FilerApp/releases/download/v1.01/Filer.app.zip
  
 logo: icon_512x512@2x@2x.png
