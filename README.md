@@ -1,6 +1,10 @@
 ## Welcome to Filer
 ![](https://github.com/HuangRunHua/FilerApp/raw/main/intro.png)
 
+> **NOTING**
+>
+> 中文版帮助请访问[Filer使用说明]()
+
 > **WARNING**
 >
 > Filer is now only available on the [Mac App Store](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) and feature updates will only available on the Mac App Store. But you can still download former version [here](https://github.com/HuangRunHua/FilerApp).

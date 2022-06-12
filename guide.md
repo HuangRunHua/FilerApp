@@ -41,7 +41,7 @@ After you authorize Filer to access your folder, you can see the allowed folder 
 
 ![](https://github.com/HuangRunHua/FilerApp/raw/main/accessresult.png)
 
-### Enable Filer Extension
+## Enable Filer Extension
 Due to Apple's request, all app extensions will not enable unless user enables them in the System Preferences. So you need to enable Filer extension yourself.
 
 go to **System preferences**, open **Extensions**.
@@ -52,5 +52,5 @@ Enable the **Finder Extension** under the **Added Extensions** menu.
 
 ![](https://github.com/HuangRunHua/FilerApp/raw/main/6.png)
 
-### Finally
+## Finally
 Hope you enjoy using Filer. 
