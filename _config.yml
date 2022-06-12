@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-show_downloads: true
 title: Filer
 description: The missing **New File** option
-github:
-   zip_url: https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12
  
 logo: icon_512x512@2x@2x.png
