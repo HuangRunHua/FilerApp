@@ -3,7 +3,7 @@
 
 > **WARNING**
 >
-> Filer is now only available on the Mac App Store and feature updates will only available on the Mac App Store. But you can still download former version [here](https://github.com/HuangRunHua/FilerApp).
+> Filer is now only available on the [Mac App Store](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) and feature updates will only available on the Mac App Store. But you can still download former version [here](https://github.com/HuangRunHua/FilerApp).
 
 Filer is a Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system. Hope you like it.
 
