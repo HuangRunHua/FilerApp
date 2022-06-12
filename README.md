@@ -3,7 +3,7 @@
 
 > **NOTING**
 >
-> 中文版帮助请访问[Filer使用说明]()
+> 中文版帮助请访问[Filer使用说明](https://github.com/HuangRunHua/FilerApp/blob/main/使用说明.md)
 
 > **WARNING**
 >
