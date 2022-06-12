@@ -31,7 +31,7 @@ Having trouble with Filer or wants more file formats support? There are several 
 - Please check [Tutorial of Using Filer](https://github.com/HuangRunHua/FilerApp/blob/main/guide.md) first.
 - Leave a feedback on the Mac App Store review.
 - [Filer Contact support](https://twitter.com/ThisFilerApp?s=20&t=yr4k4kQU_6fIYADIZX3v6Q)
-- Leave an issue in [Github](https://github.com/HuangRunHua/FilerApp).
+- Leave an issue in [Github](https://github.com/HuangRunHua/FilerApp/issues).
 
 ### Finally
 If you feel Filer is helpful, please leave five stars on the [Mac App Store](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) and share Filer with your friends.
