@@ -7,7 +7,7 @@
 
 > **WARNING**
 >
-> Filer is now only available on the [Mac App Store](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) and feature updates will only available on the Mac App Store. But you can still download former version [here](https://github.com/HuangRunHua/FilerApp).
+> Filer is now only available on the [Mac App Store](https://apps.apple.com/app/filerapp/id1626627609) and feature updates will only available on the Mac App Store. But you can still download former version [here](https://github.com/HuangRunHua/FilerApp).
 
 Filer is a Finder extension for your Mac which enables you to easily create files in supported formats anywhere on the system. Hope you like it.
 
@@ -17,7 +17,7 @@ The main reason for developing this extension is that my girlfriend complained a
 Filer only supports macOS with system version equal to or higher than 11.0.
 
 ### Install
-The easiest way to install the extension is to download [Filer](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) on the Mac App Store.
+The easiest way to install the extension is to download [Filer](https://apps.apple.com/app/filerapp/id1626627609) on the Mac App Store.
 
 When you open Filer, there is no app icon on the dock and a small icon will appear on the menu bar in the upper right corner where you can view extension [help](https://github.com/HuangRunHua/FilerApp/blob/main/guide.md) or exit the extension.
 
@@ -38,4 +38,4 @@ Having trouble with Filer or wants more file formats support? There are several 
 - Leave an issue in [Github](https://github.com/HuangRunHua/FilerApp/issues).
 
 ### Finally
-If you feel Filer is helpful, please leave five stars on the [Mac App Store](https://apps.apple.com/cn/app/filerapp/id1626627609?l=en&mt=12) and share Filer with your friends.
+If you feel Filer is helpful, please leave five stars on the [Mac App Store](https://apps.apple.com/app/filerapp/id1626627609) and share Filer with your friends.
